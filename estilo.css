@@ -1,0 +1,61 @@
+body{
+	background-image:url("imagens/fundo.png");
+	border: 0px ; 
+	width: 900px;
+	height: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	font:16px Arial, Helvetica, sans-serif;
+}
+
+.nav{
+	float: right;
+	padding: 20px 0px 20px 0px;
+}
+.fundo{
+	float: left;
+	
+}
+.envio{
+	padding: 5px 0px 10px 0px;
+}
+
+#display{
+	width: 900px;
+	height: 56px;
+	padding: 20px 0px 20px 0px;
+	
+}
+#margin{
+	margin-top: 8px;
+}
+
+a{
+	color: #12263b;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 5px;
+}
+h1{
+	color: #2b5888;
+	font-size: 1.5em;
+}
+p{
+	color: #12263b;
+	text-align: left;
+
+}
+
+footer{		
+  	text-align: center;
+  	float: revert;
+	
+}
+ol{
+	color: #2b5888;
+}
+
+form{
+	width: 900px;
+	height: 303px;
+}
